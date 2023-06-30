@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center" bgcolor="lightblue">Welcome <img src="https://media.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="30px" style="position:relative;top:6px;background:#171717;"> , I'm Kevin</h1>
+
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gkevinrz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkevinrz&layout=compact&theme=radical"/>
+</div>
